@@ -21,4 +21,5 @@ Para este projeto utilizamos o **Telegram** por ser uma plataforma de mensageria
 
 Para a arquitetura do projeto temos como modelo a imagem abaixo. O objetivo é que esse _pipeline_ faça a **ingestão, processamento, armazenamento e tratamento**
 
-![image.png](attachment:6911cf85-e633-480d-9bfb-b3e4de72e58a.png)
+![image](https://github.com/dinizabrv/telegram-project/assets/144612240/3ed1dace-645d-403b-bb5b-8ffec9f59e69)
+
